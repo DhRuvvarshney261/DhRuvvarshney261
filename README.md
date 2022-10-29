@@ -12,12 +12,12 @@
   
 *Talking about Personal Stuffs:*
 
-- 👨🏽‍💻 I’m currently working on enhancing my Python Skills by solving python problems in hackerrank;
-- 💼 I’m pursuing a Bachelor's degree in Computer Science at Bangalore Institute Of technology
+- 👨🏽‍💻 I’m currently working as a Associate Software Engineer in Bazaarvoice
+- 👨🏽‍💻 I have worked as a Software Engineer Intern in Bazaarvoice where i build a internal application in Angular from scratch. 
+- 💼 I have pursued my Bachelor's degree in Computer Science at Bangalore Institute Of Technology
 - 🌐 I am also Interested in making interactive web pages basically frontend;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via dhruvvarshney2612@gmail.com to reach me.
-- ✔️ You can follow me on [Medium](https://medium.com/@dhruvvarshney2612). 
+- 📫 Please email via varshneydhruv2612@gmail.com to reach me.
 <br/> 
 </em>
 
