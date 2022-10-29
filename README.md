@@ -58,6 +58,7 @@
 
 ## Graph
 <p align = "center">
-<img align="center" style="padding=0;" src="https://activity-graph.herokuapp.com/graph?username=DhRuvvarshney261&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/DhRuvvarshney261/github-readme-activity-graph" alt="Dhruv Varshney" />
+<img src="https://github-readme-stats.vercel.app/api?username=DhRuvvarshney261&&show_icons=true&count_private=true"/>
+<img style="padding=0;" src="https://activity-graph.herokuapp.com/graph?username=DhRuvvarshney261&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/DhRuvvarshney261/github-readme-activity-graph" alt="Dhruv Varshney" />
 </p>
 
