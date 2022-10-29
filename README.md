@@ -57,8 +57,6 @@
 [<img height="50" width ="50" align = "center" style = "padding=15" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:varshneydhruv2612@gmail.com)
 
 ## Graph
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=DhRuvvarshney261&show_icons=true&count_private=true"/>
 <img style="padding=0;" src="https://activity-graph.herokuapp.com/graph?username=DhRuvvarshney261&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/DhRuvvarshney261/github-readme-activity-graph" alt="Dhruv Varshney" />
 </p>
 
