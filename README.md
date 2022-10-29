@@ -45,7 +45,6 @@
 
 
 <p align='center'>
-<img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhRuvvarshney261&layout=compact&hide=html" alt="Dhruv Varshney" />
 <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=DhRuvvarshney261" alt="Dhruv Varshney" />
 </p>
 
