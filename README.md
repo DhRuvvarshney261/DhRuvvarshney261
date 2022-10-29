@@ -28,8 +28,10 @@
 <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" alt="C" width="40" height="40"/> 
 <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg" alt="HTML5" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS3" width="30" height="40"/>
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="CSS3" width="30" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/AngularJS_logo.svg" alt="CSS3" width="30" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/AngularJS_logo.svg" alt="CSS3" width="30" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="git" width="40" height="40"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="TensorFlow" width="40" height="40"/>
 <img src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr" alt="Keras" width="55" height="45"/>
