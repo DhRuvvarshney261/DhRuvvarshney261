@@ -1,4 +1,4 @@
-## Hi there 👋,I'm Dhruv Varshney! ![GitHub followers](https://img.shields.io/github/followers/DhRuvvarshney261?style=social)
+## Hi there 👋,I'm Dhruv Varshney! 
 
 <p>
   <em>
