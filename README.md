@@ -45,10 +45,6 @@
 <br>
 
 
-<p align='center'>
-<img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=DhRuvvarshney261" alt="Dhruv Varshney" />
-</p>
-
 ## Contact me
 [<img height="50" width ="50" align = "center" style = "padding=15" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG1.png" alt="Linkedin" height="50">](https://www.linkedin.com/in/dhruv-varshney2612/)
 [<img height="50" width ="50" align = "center" style = "padding=15" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" height="50">](https://github.com/DhRuvvarshney261)
@@ -56,7 +52,4 @@
 [<img height="50" width ="50" align = "center" style = "padding=15" src="https://i.pinimg.com/originals/1d/b9/9d/1db99daa9371bf0989f05a0bc12e2b9e.png" alt="Website logo" height="50">](https://dhruv-varshney.github.io/MyPortfolio/)
 [<img height="50" width ="50" align = "center" style = "padding=15" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:varshneydhruv2612@gmail.com)
 
-## Graph
-<img style="padding=0;" src="https://activity-graph.herokuapp.com/graph?username=DhRuvvarshney261&bg_color=000000&color=4cd8f0&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/DhRuvvarshney261/github-readme-activity-graph" alt="Dhruv Varshney" />
-</p>
 
