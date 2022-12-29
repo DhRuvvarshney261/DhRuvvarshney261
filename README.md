@@ -12,11 +12,8 @@
   
 *Talking about Personal Stuffs:*
 
-- 👨🏽‍💻 I’m currently working as a Associate Software Engineer in Bazaarvoice
-- 👨🏽‍💻 I have worked as a Software Engineer Intern in Bazaarvoice where i build a internal application in Angular from scratch. 
+- 👨🏽‍💻 I’m currently working as a Associate Software Engineer in Bazaarvoice 
 - 💼 I have pursued my Bachelor's degree in Computer Science at Bangalore Institute Of Technology
-- 🌐 I am also Interested in making interactive web pages basically frontend;
-- 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via varshneydhruv2612@gmail.com to reach me.
 <br/> 
 </em>
