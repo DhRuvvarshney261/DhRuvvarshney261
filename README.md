@@ -10,8 +10,3 @@
 </em>
 
 
-## Contact me
-[<img height="50" width ="50" align = "center" style = "padding=15" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG1.png" alt="Linkedin" height="50">](https://www.linkedin.com/in/dhruv-varshney2612/)
-[<img height="50" width ="50" align = "center" style = "padding=15" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:varshneydhruv2612@gmail.com)
-
-
