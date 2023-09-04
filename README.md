@@ -5,5 +5,6 @@
 - 👨🏽‍💻 I’m currently working as a Associate Software Engineer in Bazaarvoice
   <br/>
 Connect with me on Linkedin : https://www.linkedin.com/in/dhruv-varshney2612/
+My Gmail : varshneydhruv2612@gmail.com
 <br/> 
 </em>
